@@ -1,4 +1,4 @@
-![progress-banner](https://codecrafters.io/landing/images/default_progress_banners/redis.png)
+[![progress-banner](https://app.codecrafters.io/progress/redis/34cc1197-36b5-4871-b7ae-05825d5cb6e1)](https://app.codecrafters.io/users/adrian13579)
 
 This is a starting point for C# solutions to the
 ["Build Your Own Redis" Challenge](https://codecrafters.io/challenges/redis).
